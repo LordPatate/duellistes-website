@@ -1,0 +1,6 @@
+[book]
+authors = ["Tom 'LordPatate' Bricaud"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Duellistes"
