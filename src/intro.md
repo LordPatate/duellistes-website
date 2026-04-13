@@ -14,4 +14,6 @@ Puis, les deux joueurs reprennent leur carte en main et commencent un nouveau to
 Lorsqu'un des deux joueurs perd son dernier point de vie, son adversaire gagne la manche.
 Les parties se jouent en deux manches gagnantes.
 
+![Aperçu du jeu en mode débutant (prototype)](./images/duellistes_proto_2026-04-13.jpg)
+
 🚧 *(Site en construction)*
