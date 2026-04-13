@@ -1,5 +1,10 @@
 ![Logo Duellistes](./images/duellistes_logo.svg)
 
+- Durée: 15 minutes
+- 2 à 4 joueurs
+- Âge recommandé: 8 ans et plus
+- Genre: stratégie, psychologie, intuition
+
 # Présentation
 
 *Duellistes* est un jeu d'affrontement en duel qu'on peut résumer par un Pierre-Feuille-Ciseaux, avec des épées, des points de vie et une posture.
@@ -16,4 +21,12 @@ Les parties se jouent en deux manches gagnantes.
 
 ![Aperçu du jeu en mode débutant (prototype)](./images/duellistes_proto_2026-04-13.jpg)
 
-🚧 *(Site en construction)*
+# Matériel
+
+Le jeu de base comporte 4 dés et 53 cartes pour permettre de jouer jusqu'à 4 joueurs.
+
+10 cartes et 2 dés suffisent pour apprendre à jouer à deux.
+
+Le mode initié permet de jouer avec 6 personnages, 6 armes et 4 instantanées pour approfondir la dimension stratégique.
+
+De plus, quatre extensions ont été conçues, chacune ajoutant une dizaine de cartes différentes et jusqu'à deux nouvelles mécaniques.
