@@ -1,4 +1,4 @@
-![Logo Duellistes](../images/duellistes_logo.svg)
+![Logo Duellistes](./images/duellistes_logo.svg)
 
 # Présentation
 
