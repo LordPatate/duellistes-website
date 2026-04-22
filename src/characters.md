@@ -1,3 +1,5 @@
+# Personnages
+
 18 personnages ont été imaginés à l'heure actuelle. Voici une brève description de chacun d'eux.
 
 ## ⚔️ Jeu de base
