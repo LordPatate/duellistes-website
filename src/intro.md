@@ -21,14 +21,16 @@ Puis, les deux joueurs reprennent leur carte en main et commencent un nouveau to
 Lorsqu'un des deux joueurs perd son dernier point de vie, son adversaire gagne la manche.
 Les parties se jouent en deux manches gagnantes.
 
+Trois modes de jeu de complexité croissantes permettent de se familiariser avec toutes les mécaniques petit à petit.
+
+Des variantes multijoueurs permettent de jouer à plus de deux, sans limite théorique.
+
 ![Aperçu du jeu en mode débutant (prototype)](./images/duellistes_proto_2026-04-13.jpg)
 
 ## Matériel
 
-Le jeu de base comporte 4 dés et 53 cartes pour permettre de jouer jusqu'à 4 joueurs.
+Le jeu de base comporte 24 cartes différentes. Une boîte de jeu pour 4 joueurs devrait contenir 4 dés et 57 cartes.
 
-10 cartes et 2 dés suffisent pour apprendre à jouer à deux.
+Pour apprendre à jouer, il suffit de 6 cartes et 1 dé par joueur.
 
-Le mode initié permet de jouer avec 6 personnages, 6 armes et 4 instantanées pour approfondir la dimension stratégique.
-
-De plus, quatre extensions ont été conçues, chacune ajoutant une dizaine de cartes différentes et jusqu'à deux nouvelles mécaniques.
+De plus, quatre extensions ont été conçues, chacune ajoutant une dizaine de cartes différentes et jusqu'à deux nouvelles mécaniques chacune.
